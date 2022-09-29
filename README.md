@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @AnnMichelle
+- 👋 Hi, I’m @AnnMichelle - Michelle-Ann 
 - 👀 I’m interested in User Experience, Web Design and Visual Design
-- 🌱 I’m currently learning Front End Development & A Computer Science Degree!
+- 🌱 I’m currently learning Front End Development & pursuing a Computer Science Degree!
 - 💞️ I’m looking to collaborate on anything Web Development related!
 - 📫 How to reach me: Linkedin: /michelle-ann-de-coeyere
